@@ -1,0 +1,2 @@
+SK=input()
+print(SK)
